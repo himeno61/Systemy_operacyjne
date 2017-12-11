@@ -15,7 +15,7 @@ gdzie:
 **n** – liczba procesów producentów
 **m** – rozmiar kolejki
 **k** – liczba jednostek towaru, czyli liczb, które powinien wstawić każdy producent do bufora
-W ramach programu należy zadbać o utworzenie procesów potomnych realizujących określone
+W ramach programu należy zadbać o utworzenie procesów lub wątków potomnych realizujących określone
 funkcje. Każdy producent i odbiorca powinien wypisywać na konsoli wykonywane operacje w celu
 demonstracji działania programu.
 
