@@ -9,8 +9,8 @@ któryś z producentów wytworzył już swój produkt i jednocześnie nie dopuś
 magazynu lub zniszczenia znajdującego się tam towaru. Każdy producent powinien przekazać k
 jednostek towaru.
 
-# Demonstracja działania algorytmu synchronizacji:
-uruchamiamy program **./handel n m k**
+## Demonstracja działania algorytmu synchronizacji:
+Uruchamiamy program `./handel n m k`
 gdzie:
 **n** – liczba procesów producentów
 **m** – rozmiar kolejki
